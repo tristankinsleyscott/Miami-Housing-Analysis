@@ -1,10 +1,10 @@
 # Miami-Housing-Analysis
 
-This is a dating and mapping analysis project using a [Miami Housing Dataset](https://www.kaggle.com/deepcontractor/miami-housing-dataset). The project mainly focuses upon numerous Miami housing attributes and how they correlate to house sales prices
+This is a dating and mapping analysis project using a [Miami Housing Dataset](https://www.kaggle.com/deepcontractor/miami-housing-dataset). The project mainly focuses upon numerous Miami housing attributes, including their density levels and how to correlate to one another.
 
-## Libraries
+## Libraries/Packages
 
-Libraries used in this project include:
+Libraries and packages used in this project include:
 - [Pandas](https://pandas.pydata.org/)
 - [Geopandas](https://geopandas.org/en/stable/)
 - [Seaborn](https://seaborn.pydata.org/)
@@ -18,8 +18,11 @@ The project includes three different sections:
 ### 1. Pearson Correlation
 Sale Price (SALE_PRC) serves as the dependent variable, with other select columns serving as independent variables in their own respective subplots
 
-### 2. Matrix 
-The correlation matrix table in this project depicts correlation coefficient between each column in the included dataset.
+### 2. Correlation Matrix 
+The correlation matrix table in this project depicts correlation coefficients between each column in the included dataset.
+
+### 3. Density Heatmap
+The included heatmap figure depicts the density levels of each column in the dataset. Each house has been converted from lat/long into a point using the Shapely package. 
 
 # Insights 
 
