@@ -15,13 +15,13 @@ Libraries and packages used in this project include:
 ## Project Elements
 
 The project includes three different sections:
-### 1. Pearson Correlation
+### 1. [Pearson Correlation](https://github.com/tristankinsleyscott/Miami-Housing-Analysis/blob/main/miami_correlations.png)
 Sale Price (SALE_PRC) serves as the dependent variable, with other select columns serving as independent variables in their own respective subplots
 
-### 2. Correlation Matrix 
+### 2. [Correlation Matrix](https://github.com/tristankinsleyscott/Miami-Housing-Analysis/blob/main/miami_matrix.png) 
 The correlation matrix table in this project depicts correlation coefficients between each column in the included dataset.
 
-### 3. Density Heatmap
+### 3. [Density Heatmap](https://github.com/tristankinsleyscott/Miami-Housing-Analysis/blob/main/miami_maps.png)
 The included heatmap figure depicts the density levels of each column in the dataset. Each house has been converted from lat/long into a point using the Shapely package. 
 
 # Insights 
