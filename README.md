@@ -24,7 +24,7 @@ The correlation matrix table in this project depicts correlation coefficients be
 ### 3. [Density Heatmap](https://github.com/tristankinsleyscott/Miami-Housing-Analysis/blob/main/miami_maps.png)
 The included heatmap figure depicts the density levels of each column in the dataset. Each house has been converted from lat/long into a point using the Shapely package. 
 
-# Insights 
+## Insights 
 
 In general, we see that there are a significant number of negative correlations in our data. Generally speaking,
 that means that as the value of the observed column on the x-axis increases, sale prices (y-axis) decreases. Example: As a house's 
