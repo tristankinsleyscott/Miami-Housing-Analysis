@@ -1,6 +1,6 @@
 # Miami-Housing-Analysis
 
-This is a dating and mapping analysis project using a [Miami Housing Dataset](https://www.kaggle.com/deepcontractor/miami-housing-dataset). The project mainly focuses upon numerous Miami housing attributes, including their density levels and how to correlate to one another.
+This is a data and mapping analysis project using a [Miami Housing Dataset](https://www.kaggle.com/deepcontractor/miami-housing-dataset). The project mainly focuses upon numerous Miami housing attributes, including their density levels and how to correlate to one another.
 
 ## Libraries/Packages
 
