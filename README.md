@@ -16,11 +16,12 @@ Libraries used in this project include:
 
 The project includes three different sections:
 ### 1. Pearson Correlation
-Sale Price (SALE_PRC) serves as the dependent variable, w
+Sale Price (SALE_PRC) serves as the dependent variable, with other select columns serving as independent variables in their own respective subplots
 
-### 2. 
+### 2. Matrix 
+The correlation matrix table in this project depicts correlation coefficient between each column in the included dataset.
 
-## Insights 
+# Insights 
 
 In general, we see that there are a significant number of negative correlations in our data. Generally speaking,
 that means that as the value of the observed column on the x-axis increases, sale prices (y-axis) decreases. Example: As a house's 
